@@ -6,7 +6,7 @@ LLLAIHL (pronounced Layla) stands for Location, Location, Location AI Home Locat
 
 ## Summary
 
-LLLAIHL is an AI powered tool that helps home buyers find the property of their dreams by augmenting the ususal property site search tools with advanced techniques that allow them to find houses using less easy to categorise (or perhaps even more subjective) attributes such as having an attractive view from the property. 
+LLLAIHL is an AI powered tool that helps home buyers find the property of their dreams by augmenting the ususal property site search tools with advanced techniques that allow them to find houses using less easy to categorise/subjective attributes. 
 
 ## Background
 

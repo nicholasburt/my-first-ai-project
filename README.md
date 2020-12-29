@@ -2,6 +2,8 @@
 
 Final project for the Building AI course
 
+LLLAIHL
+
 ## Summary
 
 LLLAIHL augments the usual property site search tools with advanced techniques that allow them to find houses using less easy to categorise/subjective attributes such as having an attractive view from the property.

@@ -25,7 +25,7 @@ They will then set an alert up ensuring that any new properties that meet their 
 ![Example of a Rightmove Property Alert](/RightMove_Property_Alert.png)
 Example of a Rightmove Property Alert
 
-When LLLAIHL receives an emial alert it will follow the embedded links to each property, extract the location of the home from the site it is linked to and use this information to obtain an image of the property using the satellite image from a mapping service like Google maps (using a know zoom level).
+When LLLAIHL receives an email alert it will follow the embedded links to each property, extract the location of the home from the site it is linked to and use this information to obtain an image of the property using the satellite image from a mapping service like Google maps (using a know zoom level).
 
 LLLAIHL will analyse this image to dertmine if it classifies as an POI (Property of Interest).
 

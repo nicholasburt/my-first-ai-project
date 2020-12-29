@@ -22,7 +22,7 @@ Once they have a LLLAIHL user account the user will need to set up a property al
 
 They will then set an alert up enusing that any new properties that meet their criteria are sent to their LLLAIHL email address.
 
-
+![Example of a Rightmove Property Alert](/RightMove_Property_Alert.png)
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 

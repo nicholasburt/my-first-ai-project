@@ -2,7 +2,8 @@
 
 Final project for the Building AI course
 
-LLLAIHL
+LLLAIHL (pronounced Layla) stands for Location, Location, Location AI Home Locator.
+LLLAIHL is an AI powered tool that helps home buyers find the property of their dreams.
 
 ## Summary
 
